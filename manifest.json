@@ -1,12 +1,7 @@
 {
 "name": "Hola Misión TIC 2022",
 "short_name": "HolaPWA",
-"lang": "es-CO",
-"start_url": "/index.html",
-"display": "standalone",
-"background_color": "white",
-"theme_color": "white"
-}
+
 "icons": [{
     "src": "images/android-launchericon-48-48.png",
     "sizes": "48x48",
@@ -38,3 +33,12 @@
     "type": "image/png",
     "purpose": "any maskable"
     }],
+
+
+"lang": "es-CO",
+"start_url": "/index.html",
+"display": "standalone",
+"background_color": "white",
+"theme_color": "white"
+} 
+
